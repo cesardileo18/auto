@@ -92,7 +92,7 @@ if (isset($_GET["id"]) && $_GET["id"] > 0) {
   <link rel="stylesheet" href="css/fontawesome/css/all.min.css">
   <link rel="stylesheet" href="css/fontawesome/css/fontawesome.min.css">
   <link rel="stylesheet" href="css/estilos.css">
-  <title>Contacto</title>
+  <title>Nuevo Auto</title>
   <link rel="shortcut icon" type="image/x-icon" href="img/logodw.ico">
 </head>
 

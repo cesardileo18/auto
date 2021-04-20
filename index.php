@@ -129,7 +129,7 @@
 							<img src="img/a3.png" alt="">
 						</a>
 						<div class="caption">
-							<h3>Mercedes Benz Slk</h3>
+							<h3>Mercedes Benz</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 							<p>
 								<a href="#" class="btn btn-default">Detalles</a>
